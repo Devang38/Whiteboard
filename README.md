@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Contributors
 @Madhvendra21 https://github.com/Madhvendra21
 @Krishverma https://github.com/Krishverma
+@Devang38 https://github.com/Devang38
